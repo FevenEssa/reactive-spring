@@ -1,16 +1,16 @@
-#Spring boot with reactive and flux
+# Spring boot with reactive and flux
 
-##Dependencies
+## Dependencies
 - Spring Reactive Web
 - Reactive MongoDB
 - Lombok
 - Spring Actuator
 - Spring Security
 
-##Building
+## Building
 > mvn clean install
 
-##Run
+## Run
 > mvn spring-boot:run
 
 [Screenshot](reactive-spring.png)
